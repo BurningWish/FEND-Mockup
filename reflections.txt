@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+# My reflections on "Mockup to Article" project
+
+1- What new skills have I learned?
+    * Use <s> <sup> tag to create visual effect on the text
+
+2 - What has been easy?
+    * So far, everything is easy, I only use pure HTML to re-create an Article.
+
+3 - What has been difficult?
+    * So far, nothing is difficult, but if CSS is involved, it would be a litlle more tricky.
+
+4 - How have you used the problem solving strategies from the first project to overcome challenges so far?
+    * Search google, MDN for possible tags to make the exact visual effect in the article.
+    * When I made any small change in the HTML, I refresh page to see if the small change is what I want according to the mockup and then I proceed.
